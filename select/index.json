@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "リベリオン",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T15:59:11.242238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リベリオン",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_リベリオン_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リベリオン",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_リベリオン_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リベリオン - Rebellion",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_リベリオン_-_Rebellion_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リベリオン",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_リベリオン_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リベリオン (\"Rebellion\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_リベリオン_(_Rebellion_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リベリオン",
+      "artist": "Ado (18)",
+      "has_synced": true,
+      "path": "select/06_リベリオン_Ado_(18).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【Ado】リベリオン",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_【Ado】リベリオン_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "リベリオン",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_リベリオン_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "リベリオン (Paused)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_リベリオン_(Paused)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "リベリオン (instrumental)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_リベリオン_(instrumental)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リベリオン",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_リベリオン_Ado.txt"
+    }
+  ]
+}
